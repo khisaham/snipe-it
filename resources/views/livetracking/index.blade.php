@@ -44,7 +44,7 @@
     @include ('partials.bootstrap-table')
     @stop
     <script
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB8s4KqoMeyInrL_Gghw5dzEK8_O2UgnLA&callback=initMap&v=weekly"
+            src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly"
             defer
     ></script>
     <script>
